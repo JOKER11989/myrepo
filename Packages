@@ -1,7 +1,52 @@
+﻿Package: com.joker.com.34306.tflowerinstall_1.0.0-4+debug_iphoneos-arm64
+Name: com.34306.tflowerinstall_1.0.0-4+debug_iphoneos-arm64
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: JOKER
+Author: JOKER
+Section: Tweaks
+Description: Official Tweak by Antigravity
+Depiction: https://joker11989.github.io/myrepo/
+Filename: debs/com.34306.tflowerinstall_1.0.0-4+debug_iphoneos-arm64.deb
+Size: 13034
+MD5sum: 1ab131a65470229112234703f780b0c5
+SHA1: be916c29c1f4e2b3433167c09db4c4a71f9af5a4
+SHA256: 7b60a41258011e87e6b27cfaef3d2a09cbbcbd9a7a66ff6ff83b61374d28b376
+
+Package: com.ethn.mirage
+Name: Mirage
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: ETHN
+Author: ETHN
+Section: Themes
+Description: An iOS modern glyphs theme, with beautiful gradients.
+Depiction: https://joker11989.github.io/myrepo/
+Filename: debs/com.ethn.mirage.deb
+Size: 14160486
+MD5sum: 8157af77a5ea46e0a551c1770847d5e3
+SHA1: 0f7f44999dbc14431add7d8c31ef6b0bce88d5be
+SHA256: 723eac5c66e1d1228bbaa877425ab859a94b4a3d92e961d8addbbe214d8f98d8
+
+Package: com.joker.com.f0u4d.watusitools_2.6.5_iphoneos-arm64
+Name: com.f0u4d.watusitools_2.6.5_iphoneos-arm64
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: JOKER
+Author: JOKER
+Section: Tweaks
+Description: Official Tweak by Antigravity
+Depiction: https://joker11989.github.io/myrepo/
+Filename: debs/com.f0u4d.watusitools_2.6.5_iphoneos-arm64.deb
+Size: 5676070
+MD5sum: 9c65070f1c6507e5f808f32b73bf558b
+SHA1: 27b4d04b7d062e8c7a24c6d74de246a3ca178281
+SHA256: c7f07df8925ad5be090e2b18841df7b37bad4b1d51181b33ada7517553e1d0fb
+
 Package: com.joker.pubg_v1.1b
 Name: pubg_v1.1b
 Version: 1.0.0
-Architecture: all
+Architecture: iphoneos-arm
 Maintainer: JOKER
 Author: JOKER
 Section: Tweaks
@@ -12,3 +57,18 @@ Size: 745668
 MD5sum: 371881c07e2a808f5b3e074c14482f66
 SHA1: 12793d42ead87d3352585d23698213f0809b9231
 SHA256: 26cc7a6a00514ab7b4a9c485f98c2954f01962ac436198d0a248d685145311c4
+
+Package: com.joker.snapplus
+Name: SnapPlus
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Unknown Developer
+Author: Unknown Developer
+Section: Tweaks
+Description: حزمة للأدوات والثيمات.
+Depiction: https://joker11989.github.io/myrepo/
+Filename: debs/SnapPlus.deb
+Size: 497360
+MD5sum: 16bd87c62672141d51dd3d174bb733b2
+SHA1: 4ac498b8b5aa7379312667e4f47c744366c848d0
+SHA256: c4876f631be0fb1db18011efac920fe790fb5174645af1adc5359ca234e93928
