@@ -1,7 +1,7 @@
-﻿Package: com.joker.com.34306.tflowerinstall_1.0.0-4+debug_iphoneos-arm64
+Package: com.joker.com.34306.tflowerinstall_1.0.0-4+debug_iphoneos-arm64
 Name: com.34306.tflowerinstall_1.0.0-4+debug_iphoneos-arm64
 Version: 1.0.0
-Architecture: iphoneos-arm
+Architecture: all
 Maintainer: JOKER
 Author: JOKER
 Section: Tweaks
@@ -16,7 +16,7 @@ SHA256: 7b60a41258011e87e6b27cfaef3d2a09cbbcbd9a7a66ff6ff83b61374d28b376
 Package: com.ethn.mirage
 Name: Mirage
 Version: 1.9
-Architecture: iphoneos-arm
+Architecture: all
 Maintainer: ETHN
 Author: ETHN
 Section: Themes
@@ -31,7 +31,7 @@ SHA256: 723eac5c66e1d1228bbaa877425ab859a94b4a3d92e961d8addbbe214d8f98d8
 Package: com.joker.com.f0u4d.watusitools_2.6.5_iphoneos-arm64
 Name: com.f0u4d.watusitools_2.6.5_iphoneos-arm64
 Version: 1.0.0
-Architecture: iphoneos-arm
+Architecture: all
 Maintainer: JOKER
 Author: JOKER
 Section: Tweaks
@@ -46,7 +46,7 @@ SHA256: c7f07df8925ad5be090e2b18841df7b37bad4b1d51181b33ada7517553e1d0fb
 Package: com.joker.pubg_v1.1b
 Name: pubg_v1.1b
 Version: 1.0.0
-Architecture: iphoneos-arm
+Architecture: all
 Maintainer: JOKER
 Author: JOKER
 Section: Tweaks
@@ -61,7 +61,7 @@ SHA256: 26cc7a6a00514ab7b4a9c485f98c2954f01962ac436198d0a248d685145311c4
 Package: com.joker.snapplus
 Name: SnapPlus
 Version: 1.0.0
-Architecture: iphoneos-arm
+Architecture: all
 Maintainer: Unknown Developer
 Author: Unknown Developer
 Section: Tweaks
@@ -76,7 +76,7 @@ SHA256: c4876f631be0fb1db18011efac920fe790fb5174645af1adc5359ca234e93928
 Package: com.joker.vibetok-1.70
 Name: VibeTok-1.70
 Version: 1.0.0
-Architecture: iphoneos-arm
+Architecture: all
 Maintainer: JOKER
 Author: JOKER
 Section: Tweaks

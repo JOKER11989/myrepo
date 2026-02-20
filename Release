@@ -1,4 +1,4 @@
-﻿Origin: Antigravity Repo
+Origin: Antigravity Repo
 Label: Antigravity
 Suite: stable
 Version: 1.0
@@ -7,11 +7,11 @@ Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Official Antigravity Tweak Repository
 MD5Sum:
- c472f5028442668aca9a2080e5e9ed73 2879 Packages
- 539856e1a6db57b70f16525de8a21465 1110 Packages.gz
+ 1dd9bafff1611136e015732c649bc477 2822 Packages
+ 31c6c7d673a00629c27dd189416bdcaa 1100 Packages.gz
 SHA1:
- b90480c26efd798759dc3b64e27967dd426eee47 2879 Packages
- 164cc93aee67ac3e5fb23771ca7873534d8d2123 1110 Packages.gz
+ a5e3b56325b772c3d5bcf6070b48537ba37c7d97 2822 Packages
+ 768164547a4f4ee71f2d92a73d711a021d545218 1100 Packages.gz
 SHA256:
- 0b6bfe9b642bdc83c76619f1e8f841610a7a6c4b5cc1562780c8280d9714e899 2879 Packages
- 0446ed96bd2c2c71623f9a60ecdb7b44c650cbc3a2450014ce2d3e46683b70ca 1110 Packages.gz
+ 76133fb547b1b22f59566246945f10542793dc358f7e4e7f676c70a85105e273 2822 Packages
+ ea6bb73399797aef8a4dcacccf99c0de55ffd8213b7a14b6a43758210d66d203 1100 Packages.gz
