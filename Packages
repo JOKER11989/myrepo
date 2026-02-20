@@ -72,3 +72,18 @@ Size: 497360
 MD5sum: 16bd87c62672141d51dd3d174bb733b2
 SHA1: 4ac498b8b5aa7379312667e4f47c744366c848d0
 SHA256: c4876f631be0fb1db18011efac920fe790fb5174645af1adc5359ca234e93928
+
+Package: com.joker.vibetok-1.70
+Name: VibeTok-1.70
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: JOKER
+Author: JOKER
+Section: Tweaks
+Description: Official Tweak by Antigravity
+Depiction: https://joker11989.github.io/myrepo/
+Filename: debs/VibeTok-1.70.deb
+Size: 110758
+MD5sum: 5152653b5663c4ba771d12dc8b16bc4a
+SHA1: d5a0c849c984ba181046cc460ef24900a8b56999
+SHA256: ea8530034bcadefee50e9d3a143376ec8310988f469e8b47d39ba850874661a9
