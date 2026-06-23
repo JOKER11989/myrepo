@@ -1,16 +1,3 @@
-Package: com.repotest.demo
-Name: Demo Tweak
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: This is a beautiful test tweak for RepoHub.
-Maintainer: Joker
-Author: Joker
-Section: Tweaks
-Depiction: http://localhost:3000/api/depictions/com.repotest.demo
-SileoDepiction: http://localhost:3000/api/depictions/com.repotest.demo/sileo
-Filename: repo/test.deb
-Size: 1024
-
 Package: com.jokerteam.net
 Name: PUBG HACK V1.1
 Version: 1.1.0
