@@ -1,17 +1,20 @@
-Origin: Antigravity Repo
-Label: Antigravity
+Origin: RepoHub
+Label: RepoHub
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm
 Components: main
-Description: Official Antigravity Tweak Repository
+Description: RepoHub Repository
 MD5Sum:
- 1dd9bafff1611136e015732c649bc477 2822 Packages
- 31c6c7d673a00629c27dd189416bdcaa 1100 Packages.gz
+ aa3cda6eae2ade828d2d4269814df87e 370 Packages
+ dcf3c7776498d5597470c2589e78989f 229 Packages.gz
+ 6e5bee603a8d272c9ce52bccebbb5b1a 280 Packages.bz2
 SHA1:
- a5e3b56325b772c3d5bcf6070b48537ba37c7d97 2822 Packages
- 768164547a4f4ee71f2d92a73d711a021d545218 1100 Packages.gz
+ e3b3d83a157a38a9529f26e222e7fabdc4ed2ddf 370 Packages
+ 7eed7eab52538921c486b7d8a9c0a3170ae60224 229 Packages.gz
+ 701c598f7cb9bcb5ff98870cf3eceeeb0fd3141d 280 Packages.bz2
 SHA256:
- 76133fb547b1b22f59566246945f10542793dc358f7e4e7f676c70a85105e273 2822 Packages
- ea6bb73399797aef8a4dcacccf99c0de55ffd8213b7a14b6a43758210d66d203 1100 Packages.gz
+ a7a0cf4db606baef43713b5ad08bcaaa95593b144d7ec4a1047c17bc9585dff3 370 Packages
+ 2ff4c3ad2dcd9583c74722e4824d1d64936b38b02e3ed75db3c83985ea025726 229 Packages.gz
+ d689a1f6a548c2e8d7aaeddd630ff070c2a4cb7ad28ef5e6206ac8c0849fdcbd 280 Packages.bz2
