@@ -13,3 +13,18 @@ Filename: debs/1782228980618_1765580190689-pubg_v1.1b.deb
 Size: 745668
 Installed-Size: 3852
 
+Package: com.den.vibett
+Name: VibeTok
+Version: 1.3-1+debug
+Architecture: iphoneos-arm64
+Description: Make TikTok Better!
+Maintainer: DeNsor
+Author: DeNsor
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: http://localhost:3000/api/depictions/com.den.vibett
+SileoDepiction: http://localhost:3000/api/depictions/com.den.vibett/sileo
+Filename: debs/1782229584124_VibeTok-1.70.deb
+Size: 110758
+Installed-Size: 748
+
