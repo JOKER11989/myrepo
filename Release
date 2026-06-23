@@ -3,18 +3,18 @@ Label: RepoHub
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: RepoHub Repository
 MD5Sum:
- a80c45bfadd4c760b30e0119102d82fb 3153 Packages
- dd4f21a9cedd227df9469091e9729eba 478 Packages.gz
- 7f9709a52e7681a2b0e4175dced28804 805 Packages.bz2
+ 087065736069ae27bbe015db4eaa3d7c 1872 Packages
+ 2b3e003082a872b0579aadee1c50081c 351 Packages.gz
+ 59ad86f2240697f9b19d32725d675ac4 545 Packages.bz2
 SHA1:
- dca594a72d73ebe4d1cb14001e4dc6b769127e76 3153 Packages
- 3657cae1e24717e8e09dab9a87b70702b828d4c0 478 Packages.gz
- f98371b1e162185ddceccc77b327a2be6c165635 805 Packages.bz2
+ 04e80f3ced6f2dd15e8e99338d0b97b8d6dfcb59 1872 Packages
+ 91f043267e2f10de086e07b527fb9c4b414e439a 351 Packages.gz
+ fec086f278124be4f387e7de1d8272c4139cec6a 545 Packages.bz2
 SHA256:
- 8f5bccc1739e868ade40e94475ee8cffba5dd64532c18fe31f13cdb530e6d78d 3153 Packages
- 596a1363c03efdb3beaf3af921de3722ad745ef6ac9bf11d694cafa35c7c4f39 478 Packages.gz
- bb3488b58be5203084116785f0d3ba162b639181e9b7fcef4cac000c323b282a 805 Packages.bz2
+ ae1a3305f11358ed2f641cc2dd4ea33513fdd4642edad4d6c982f0ab2befae47 1872 Packages
+ 2e292783ee8705f9302b901c62675a3b61ebea49211910bd0fbaff9784e92ca6 351 Packages.gz
+ dd0491577d069d192abfe0b16596380b8eb83bd62f67a1ced44380ea86160e31 545 Packages.bz2
