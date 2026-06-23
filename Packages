@@ -11,3 +11,18 @@ SileoDepiction: http://localhost:3000/api/depictions/com.repotest.demo/sileo
 Filename: repo/test.deb
 Size: 1024
 
+Package: com.jokerteam.net
+Name: PUBG HACK V1.1
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Pubg mobile Mod Menu by JOKER Team!
+Maintainer: Mobile User
+Author: THEJOKER & HIJACKER
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: http://localhost:3000/api/depictions/com.jokerteam.net
+SileoDepiction: http://localhost:3000/api/depictions/com.jokerteam.net/sileo
+Filename: debs/1782228980618_1765580190689-pubg_v1.1b.deb
+Size: 745668
+Installed-Size: 3852
+
