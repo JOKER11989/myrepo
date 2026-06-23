@@ -43,3 +43,48 @@ Filename: debs/1782234655142_VibeTok-1.70.deb
 Size: 110758
 Installed-Size: 748
 
+Package: com.jokerteam.net
+Name: PUBG HACK V1.1
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Pubg mobile Mod Menu by JOKER Team!
+Maintainer: Mobile User
+Author: THEJOKER & HIJACKER
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: http://localhost:3000/api/depictions/com.jokerteam.net
+SileoDepiction: http://localhost:3000/api/depictions/com.jokerteam.net/sileo
+Filename: debs/1782244253581_1765580190689-pubg_v1.1b.deb
+Size: 745668
+Installed-Size: 3852
+
+Package: com.jokerteam.net
+Name: PUBG HACK V1.1
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Pubg mobile Mod Menu by JOKER Team!
+Maintainer: Mobile User
+Author: THEJOKER & HIJACKER
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: http://localhost:3000/api/depictions/com.jokerteam.net
+SileoDepiction: http://localhost:3000/api/depictions/com.jokerteam.net/sileo
+Filename: debs/1782244361627_1765580190689-pubg_v1.1b.deb
+Size: 745668
+Installed-Size: 3852
+
+Package: com.jokerteam.net
+Name: PUBG HACK V1.1
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Pubg mobile Mod Menu by JOKER Team!
+Maintainer: Mobile User
+Author: THEJOKER & HIJACKER
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: http://localhost:3000/api/depictions/com.jokerteam.net
+SileoDepiction: http://localhost:3000/api/depictions/com.jokerteam.net/sileo
+Filename: debs/1782245110803_1765580190689-pubg_v1.1b.deb
+Size: 745668
+Installed-Size: 3852
+
